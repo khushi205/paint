@@ -1,2 +1,2 @@
 #paint.
-This is a vartual white board . using with JavaScript .
+This is a vartual white board.
