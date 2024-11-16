@@ -1,2 +1,2 @@
 #paint.
-This is a vartual white board. 
+this is a text animation 
